@@ -1,0 +1,32 @@
+{
+  "name": "@stdlib/datasets-img-nagasaki-boats",
+  "version": "0.0.0",
+  "description": "Image of boats in a river in Nagasaki.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/datasets-img-nagasaki-boats.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "datasets",
+    "dataset",
+    "data",
+    "image",
+    "img",
+    "boat",
+    "village",
+    "river",
+    "nagasaki",
+    "japan"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
